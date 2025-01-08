@@ -5,6 +5,6 @@ public abstract class Shape {
     public int longLength;
 
     int area() {
-        return shortlength * longlength;
+        return shortLength * longLength;
     }
 }
